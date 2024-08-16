@@ -2,7 +2,7 @@
 
 
 ## **🎯 Customer Segmentation with K-means Clustering**
-    Attention, fellow data enthusiasts! Are you ready to embark on an exciting journey into the heart of customer segmentation? Look no further than our K-means Clustering project! This initiative empowers businesses to uncover hidden gems within their customer base, allowing them to tailor their strategies and skyrocket customer satisfaction.
+    This project utilizes K-means clustering to segment customers based on their purchasing behavior, analyzing features like income and spending score to enhance marketing strategies and improve customer engagement.
 ## **🌟 Project Overview**
     Imagine having the ability to group customers based on their unique purchasing behaviors. With K-means clustering, the possibilities are endless! By harnessing the power of unsupervised learning, we can identify distinct segments that were previously obscured by the vast sea of customer data.
 ## **How It Works**
