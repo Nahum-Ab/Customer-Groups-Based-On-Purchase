@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Customer Groups Based On Purchase
 
 # 🎯 Customer Segmentation with K-means Clustering
 
